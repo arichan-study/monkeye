@@ -50,7 +50,7 @@ header {
 	height: 400px;
 	display: table-cell;
 	vertical-align: middle;
-	background: url("../images/B612_20210416_120623_480.jpg");
+	background: url("B612_20210416_120623_480.jpg");
 	background-repeat: no-repeat;
 	object-fit: cover;
 	background-size: 100% 400px;
@@ -296,7 +296,7 @@ h1 {
 	height: 370px;
 	display: table-cell;
 	vertical-align: middle;
-	background: url("../images/New file.png");
+	background: url("New file.png");
 	background-repeat: no-repeat;
 	object-fit: cover;
 	object-position: 100% 100%;

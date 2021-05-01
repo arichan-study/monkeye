@@ -202,7 +202,7 @@ h1 {
   height: 370px;
   display: table-cell;
   vertical-align: middle;
-  background: url(../images/abc.png.png);
+  background: url(abc.png.png);
   background-repeat: no-repeat;
   object-fit: cover;
   object-position: 100% 100%;

@@ -52,7 +52,7 @@ header {
 	height: 400px;
 	display: table-cell;
 	vertical-align: middle;
-	background: url("../images/B612_20210416_120623_480.jpg");
+	background: url("B612_20210416_120623_480.jpg");
 	background-repeat: no-repeat;
 	object-fit: cover;
 	background-size: 100% 400px;
